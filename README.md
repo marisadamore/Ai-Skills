@@ -21,11 +21,11 @@ version control.
 -   ChatGPT
 -   Google Gemini
 -   Perplexity AI
--   [NotebookLM](https://github.com/marisadamore/Pomelli-Projects) 
+-   [NotebookLM] 
 ]
 -   Claude
 -   Microsoft Copilot
--   Ponelli 
+-   [Ponelli](https://github.com/marisadamore/Pomelli-Projects) 
 -   Midjourney (AI image generation)
 -   DALL·E
 -   ElevenLabs (AI voice generation)
