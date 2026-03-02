@@ -21,8 +21,8 @@ version control.
 -   ChatGPT
 -   Google Gemini
 -   Perplexity AI
--   NotebookLM ([View Starbucks Strategy
-    Project](Starbucks_We_Hear_You_Strategy.pdf))
+-   NotebookLM (
+    Project]
 -   Claude
 -   Microsoft Copilot
 -   Runway (AI video generation)
