@@ -22,10 +22,10 @@ version control.
 -   Google Gemini
 -   Perplexity AI
 -   NotebookLM (
-    Project]
+]
 -   Claude
 -   Microsoft Copilot
--   Runway (AI video generation)
+-   Ponelli 
 -   Midjourney (AI image generation)
 -   DALL·E
 -   ElevenLabs (AI voice generation)
