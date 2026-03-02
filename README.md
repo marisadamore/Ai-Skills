@@ -22,7 +22,6 @@ version control.
 -   Google Gemini
 -   Perplexity AI
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
-]
 -   Claude
 -   Microsoft Copilot
 -   [Ponelli](https://github.com/marisadamore/Pomelli-Projects) 
