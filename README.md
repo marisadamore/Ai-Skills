@@ -21,7 +21,7 @@ version control.
 -   ChatGPT
 -   Google Gemini
 -   Perplexity AI
--   [NotebookLM] 
+-   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 ]
 -   Claude
 -   Microsoft Copilot
