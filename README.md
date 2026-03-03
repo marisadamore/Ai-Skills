@@ -11,7 +11,7 @@ version control.
 -   ChatGPT
 -   Google Gemini
 -   Perplexity AI 
-    {Suno}(https://github.com/marisadamore/Suno-) 
+    [Suno](https://github.com/marisadamore/Suno-) 
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   Claude
 -   Microsoft Copilot
