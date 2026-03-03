@@ -5,22 +5,13 @@ This repository showcases my growing experience with AI tools, creative
 technology, and structured workflow development as I learn GitHub and
 version control.
 
-------------------------------------------------------------------------
-
-## 🎵 Music & Creative AI
-
--   Suno (AI music creation)
--   AI-assisted lyric writing
--   Digital audio editing basics
--   Concept development for AI-generated music videos
-
-------------------------------------------------------------------------
 
 ## 🤖 AI Tools & Platforms
 
 -   ChatGPT
 -   Google Gemini
--   Perplexity AI
+-   Perplexity AI 
+    {Suno}(https://github.com/marisadamore/Suno-) 
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   Claude
 -   Microsoft Copilot
