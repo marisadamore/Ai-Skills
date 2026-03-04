@@ -8,7 +8,7 @@ version control.
 
 ## 🤖 AI Tools & Platforms
 
--   ChatGPT
+-   [ChatGPT](https://github.com/marisadamore/ChatGPT) 
 -   Google Gemini
 -   Perplexity AI 
     [Suno](https://github.com/marisadamore/Suno-) 
