@@ -10,8 +10,8 @@ version control.
 
 -   [ChatGPT](https://github.com/marisadamore/ChatGPT) 
 -   [Google Gemini](https://github.com/marisadamore/Gemini)
--   Perplexity AI 
-    [Suno](https://github.com/marisadamore/Suno-) 
+-   Perplexity AI
+-   [Suno](https://github.com/marisadamore/Suno-) 
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   Claude
 -   Microsoft Copilot
