@@ -14,7 +14,7 @@ version control.
 -   [Suno](https://github.com/marisadamore/Suno-) 
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   Claude
--   Microsoft Copilot
+-   [Microsoft Copilot](https://github.com/marisadamore/Microsoft-Copilot) 
 -   [Ponelli](https://github.com/marisadamore/Pomelli-Projects) 
 -   Midjourney (AI image generation)
 -   DALL·E
