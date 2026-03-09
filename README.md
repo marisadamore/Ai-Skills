@@ -5,8 +5,7 @@ This repository showcases my growing experience with AI tools, creative
 technology, and structured workflow development as I learn GitHub and
 version control.
 
-
-## 🤖 AI Tools & Platforms
+## 📂 Projects in This Repository
 
 -   [ChatGPT](https://github.com/marisadamore/ChatGPT) 
 -   [Google Gemini](https://github.com/marisadamore/Gemini)
@@ -47,16 +46,6 @@ version control.
 -   Cross-platform tool integration
 -   Content repurposing using AI
 -   Digital organization systems
-
-------------------------------------------------------------------------
-
-# 📂 Projects in This Repository
-
-Below are active and developing projects:
-
--   📄 **Starbucks "We Hear You" Strategy**\
-    AI-assisted research and structured strategic analysis.\
-    → [View Project PDF](Starbucks_We_Hear_You_Strategy.pdf)
 
 ------------------------------------------------------------------------
 
