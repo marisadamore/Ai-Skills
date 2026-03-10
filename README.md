@@ -51,9 +51,9 @@ version control.
 
 # 🚀 Current Focus
 
--   Strengthening GitHub workflow skills\
--   Organizing AI project documentation\
--   Improving prompt engineering structure\
+-   Strengthening GitHub workflow skills
+-   Organizing AI project documentation
+-   Improving prompt engineering structure
 -   Building practical AI-integrated tools
 
 ------------------------------------------------------------------------
