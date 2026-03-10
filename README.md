@@ -9,7 +9,7 @@ version control.
 
 -   [ChatGPT](https://github.com/marisadamore/ChatGPT) 
 -   [Google Gemini](https://github.com/marisadamore/Gemini)
--   Perplexity AI
+-   [Perplexity AI](https://github.com/marisadamore/Perplexity) 
 -   [Suno](https://github.com/marisadamore/Suno-) 
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   Claude
