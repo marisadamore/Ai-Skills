@@ -19,8 +19,8 @@ version control.
 -   DALL·E
 -   [ElevenLabs](https://github.com/marisadamore/ElevenLabs) 
 -   [Canva](https://github.com/marisadamore/Canva)
--   HeyGen 
--   CharacterAI 
+-   [HeyGen](https://github.com/marisadamore/HeyGen) 
+-   [CharacterAI](https://github.com/marisadamore/CharacterAI-) 
 
 ------------------------------------------------------------------------
 
