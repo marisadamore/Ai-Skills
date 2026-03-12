@@ -12,7 +12,7 @@ version control.
 -   [Perplexity AI](https://github.com/marisadamore/Perplexity) 
 -   [Suno](https://github.com/marisadamore/Suno-) 
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
--   Claude
+-   [Claude](https://github.com/marisadamore/Claude) 
 -   [Microsoft Copilot](https://github.com/marisadamore/Microsoft-Copilot) 
 -   [Ponelli](https://github.com/marisadamore/Pomelli-Projects) 
 -   Midjourney (AI image generation)
