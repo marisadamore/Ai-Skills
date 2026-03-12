@@ -17,7 +17,10 @@ version control.
 -   [Ponelli](https://github.com/marisadamore/Pomelli-Projects) 
 -   Midjourney (AI image generation)
 -   DALL·E
--   ElevenLabs (AI voice generation)
+-   [ElevenLabs](https://github.com/marisadamore/ElevenLabs) 
+    Canva
+    HeyGen 
+    CharacterAI 
 
 ------------------------------------------------------------------------
 
