@@ -18,7 +18,7 @@ version control.
 -   Midjourney (AI image generation)
 -   DALL·E
 -   [ElevenLabs](https://github.com/marisadamore/ElevenLabs) 
--   Canva
+-   [Canva](https://github.com/marisadamore/Canva)
 -   HeyGen 
 -   CharacterAI 
 
