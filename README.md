@@ -1,7 +1,7 @@
-# Marisa D'Amore -- AI & Creative Technology Portfolio
+# Marisa D'Amore -- AI Skills for Content & Communication Workflows
 
 Welcome! 👋\
-This repository showcases my growing experience with AI tools, creative
+This portfolio showcases my growing experience with AI tools, creative
 technology, and structured workflow development as I learn GitHub and
 version control.
 
