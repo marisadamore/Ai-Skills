@@ -1,6 +1,6 @@
 # Marisa D'Amore -- AI Skills for Content & Communication Workflows
 
-Welcome! 👋\
+Welcome! 👋\   
 This portfolio showcases my growing experience with AI tools, creative
 technology, and structured workflow development as I learn GitHub and
 version control.
@@ -14,13 +14,9 @@ version control.
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   [Claude](https://github.com/marisadamore/Claude) 
 -   [Microsoft Copilot](https://github.com/marisadamore/Microsoft-Copilot) 
--   [Ponelli](https://github.com/marisadamore/Pomelli-Projects) 
--   Midjourney (AI image generation)
--   DALL·E
+-   [Pomelli](https://github.com/marisadamore/Pomelli-Projects) 
 -   [ElevenLabs](https://github.com/marisadamore/ElevenLabs) 
 -   [Canva](https://github.com/marisadamore/Canva)
--   [HeyGen](https://github.com/marisadamore/HeyGen) 
--   [CharacterAI](https://github.com/marisadamore/CharacterAI-) 
 
 ------------------------------------------------------------------------
 
