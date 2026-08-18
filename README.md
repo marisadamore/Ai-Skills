@@ -7,15 +7,20 @@ version control.
 
 ## 📂 Projects in This Repository
 
--   [ChatGPT](https://github.com/marisadamore/ChatGPT) 
--   [Google Gemini](https://github.com/marisadamore/Gemini)
--   [Perplexity AI](https://github.com/marisadamore/Perplexity) 
--   [Suno](https://github.com/marisadamore/Suno-) 
--   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
--   [Claude](https://github.com/marisadamore/Claude) 
--   [Microsoft Copilot](https://github.com/marisadamore/Microsoft-Copilot) 
--   [ElevenLabs](https://github.com/marisadamore/ElevenLabs) 
+**Featured**
+
+-   [Claude](https://github.com/marisadamore/Claude) — AI-assisted analysis of a real CDC public health dataset, including flagging statistically unreliable figures
+-   [Perplexity AI](https://github.com/marisadamore/Perplexity) — deep research on how AI is transforming the communications and PR industry
+-   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) — master's-level integrated marketing campaign adapted into multiple formats
+-   [Google Gemini](https://github.com/marisadamore/Gemini) — structured competitor analysis and market positioning
+
+**Additional experiments**
+
+-   [Microsoft Copilot](https://github.com/marisadamore/Microsoft-Copilot)
 -   [Canva](https://github.com/marisadamore/Canva)
+-   [ChatGPT](https://github.com/marisadamore/ChatGPT)
+-   [ElevenLabs](https://github.com/marisadamore/ElevenLabs)
+-   [Suno](https://github.com/marisadamore/Suno-)
 
 ------------------------------------------------------------------------
 
