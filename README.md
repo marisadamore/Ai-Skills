@@ -14,7 +14,6 @@ version control.
 -   [NotebookLM](https://github.com/marisadamore/NotebookLM-Project) 
 -   [Claude](https://github.com/marisadamore/Claude) 
 -   [Microsoft Copilot](https://github.com/marisadamore/Microsoft-Copilot) 
--   [Pomelli](https://github.com/marisadamore/Pomelli-Projects) 
 -   [ElevenLabs](https://github.com/marisadamore/ElevenLabs) 
 -   [Canva](https://github.com/marisadamore/Canva)
 
